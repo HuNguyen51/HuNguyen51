@@ -12,9 +12,8 @@
 
 - 💬 Ask me about **python, android**
 
-- 📫 How to reach me **hunguyen3525@gmail.com**
+- 📫 How to reach me: **hunguyen3525@gmail.com**
 
-- ⚡ Fun fact **I think I'm a humor ye ye 👯👯👯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
