@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hung</h1>
-<h3 align="center">An AI student from Viet Nam</h3>
+<h3 align="center">An AI Developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on **some small AI project such as image processing, natural language processing, automatic speech recognition**
-
-- 🌱 I’m currently learning **Computer vision, BERT, GPT, big data, LLMs, Prompt Engineering**
+- 🔭 I am a newly graduated AI engineer from Ton Duc Thang University with GPA 8.5+, with a solid foundation in Machine Learning, Deep Learning and Computer Vision. I have practical experience in problems such as image classification, object detection, object tracking, natural language processing and data prediction. With the desire to become an AI Engineer, I am always looking for opportunities to research and apply new technologies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuNguyen51?tab=repositories](https://github.com/HuNguyen51?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me: **hunguyen3525@gmail.com**
 
