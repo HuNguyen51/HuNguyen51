@@ -24,11 +24,13 @@
 - 🧠 **Mình làm gì:** Thiết kế và triển khai các hệ thống AI production-ready trong các lĩnh vực **Computer Vision**, **NLP**, **Speech Recognition** và **Multi-Agent Systems** — từ nghiên cứu đến vận hành thực tế.
 
 - 🔬 **Những dự án nổi bật:**
+  - Phát triển **chatbot hỗ trợ trải nghiệm khách hàng** với kiến trúc Multi-tenant, kết hợp RAG (Qdrant, VoyageAI) và LangGraph để điều phối các Agent có trạng thái, hỗ trợ upsell và tra cứu menu thông minh.
   - Xây dựng **async pipeline phân tích cuộc họp** (Speech-to-Text + Speaker Diarization + LLM extraction) với RabbitMQ, Redis & LangChain
   - Thiết kế kiến trúc **hệ thống camera an ninh thông minh** nhận diện khuôn mặt & phát hiện đối tượng theo thời gian thực (YOLO11 + DeepSort + MTCNN)
   - Nghiên cứu **Multi-Agent Systems** với Google A2A & MCP — các agent chuyên biệt được điều phối bởi Host/Manager Agent
   - Ứng dụng **GCN (Graph Convolution Networks)** vào bài toán khám phá thuốc, dự đoán hoạt tính sinh học
   - Xây dựng mô hình **phát hiện ngôn ngữ thù địch tiếng Việt** với PhoBERT & LSTM
+  - Triển khai **phân cụm K-Means và tối ưu hóa hơn 10 thuật toán Machine Learning** (SVM, Random Forest, AdaBoost) cùng Deep Learning (Keras), đạt độ chính xác 94.74% trong việc dự báo.
 
 - ⚡ **Điểm khác biệt:** Mình không chỉ train model — mình thiết kế toàn bộ hệ thống: async pipeline, containerized services, scalable API và agent orchestration. Mình đặt trọng tâm vào **hiệu năng, khả năng tái sử dụng và giá trị thực tế**.
 
@@ -54,11 +56,13 @@
 - 🧠 **What I do:** I architect and ship production-ready AI systems across **Computer Vision**, **NLP**, **Speech Recognition**, and **Multi-Agent Systems** — from research to deployment.
 
 - 🔬 **Recent highlights:**
+  - Developed **a F&B customer assistant** using a multi-tenant architecture, featuring RAG (Qdrant + VoyageAI) and stateful LangGraph agents for menu discovery and automated upselling.
   - Built an **async meeting analysis pipeline** (Speech-to-Text + Speaker Diarization + LLM extraction) using RabbitMQ, Redis & LangChain
   - Architected a **smart security camera system** with real-time facial recognition & object detection (YOLO11 + DeepSort + MTCNN)
   - Explored **Multi-Agent Systems** with Google A2A & MCP — specialized agents orchestrated by a Host/Manager Agent
   - Applied **GCN (Graph Convolution Networks)** to drug discovery for biological activity prediction
   - Engineered **Vietnamese Hate Speech Detection** with PhoBERT & LSTM
+  - Performed **K-Means clustering and comparative analysis across 10+ ML models** (SVM, Random Forest, AdaBoost) and Keras Deep Learning, achieving 94.74% accuracy in weather forecasting.
 
 - ⚡ **My edge:** I don't just train models — I design the full system: async pipelines, containerized services, scalable APIs, and agent orchestration. I care about **performance, reusability, and real-world impact**.
 
